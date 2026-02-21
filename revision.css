@@ -7,3 +7,6 @@ header>nav>ul>li{
   margin-top: 30px;
   padding:20px ;
 }
+figure>h3{
+  text-align: center;
+}
